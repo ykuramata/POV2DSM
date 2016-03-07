@@ -1,7 +1,7 @@
 # POV2DSM
 POV2DSM  B-Spline Curve Processer (PovRay to DesignSpark Mechanical)
 
-POV2DSM would helps you making a 3D model from 2d image. 
+POV2DSM would helps you making a 3D model from 2D image. 
 
 # Usage
 - Prepare a PovRay(*.pov) file. (I used Inkscape)
